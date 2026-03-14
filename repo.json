@@ -1,8 +1,4 @@
 {
-  "meta": {
-    "name": "RM Extensions",
-    "website": "https://github.com/tio444508-dev/rm-extensions",
-    "signingKeyFingerprint": "9a4833af8e86c4ec7a53ef89dccb557cb5d767489fac3e785d671a5a75d4da2"
-  },
+  "name": "RM Extensions",
   "baseUrl": "https://raw.githubusercontent.com/tio444508-dev/rm-extensions/main/repo"
 }
